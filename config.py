@@ -4,13 +4,13 @@ from __future__ import absolute_import, division, print_function
 
 config = {
     # Path to resources
-    'resource_path': '/Users/Wessel/Dropbox/Resources',
+    'resource_path': '/Users/jamesrequeima/Dropbox/PhD/Papers',
 
     # Path to this repository
-    'catalogue_path': '/Users/Wessel/Dropbox/Projects/PyLib/Catalogue',
+    'catalogue_path': '/Users/jamesrequeima/Code/catalogue',
 
     # Prefix to remove from displayed paths
-    'base_path': '/Users/Wessel/Dropbox',
+    'base_path': '/Users/jamesrequeima/Dropbox',
 
     # System binaries
     'binaries': {'find': '/usr/bin/find',
